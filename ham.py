@@ -10,3 +10,4 @@ for i in range(1,n+1):
     b = int(input("nhap so b "))
     tong=xuly(a,b)
 print("tong la " + str(tong))
+
